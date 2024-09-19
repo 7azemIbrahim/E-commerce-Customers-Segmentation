@@ -6,10 +6,15 @@ This project involves analyzing customer transactional data to segment customers
 The dataset consists of multiple sheets in an Excel file:
 
 customers: Contains customer information.
+
 genders: Contains gender information.
+
 cities: Contains city information.
+
 transactions: Contains transaction records.
+
 branches: Contains branch information.
+
 merchants: Contains merchant information.
 
 ### project steps
